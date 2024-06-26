@@ -2,7 +2,7 @@
 # Wikipedia Search App
 A simple web application that allows users to search for Wikipedia articles and display the results in a user-friendly manner.
 
-You can see a live demo of the project here.
+You can see a live demo of the project here. https://gopi0709.github.io/Wikipedia-application/
 
 # Features
 - User-friendly interface for searching Wikipedia articles.
